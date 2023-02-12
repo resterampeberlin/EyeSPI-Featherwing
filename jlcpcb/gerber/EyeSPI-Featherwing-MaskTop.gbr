@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10-0)*%
-%TF.CreationDate,2023-01-20T18:51:18-05:00*%
-%TF.ProjectId,EyeSPI-Featherwing,45796553-5049-42d4-9665-617468657277,1.0.0*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.11-0)*%
+%TF.CreationDate,2023-02-12T12:49:48-05:00*%
+%TF.ProjectId,EyeSPI-Featherwing,45796553-5049-42d4-9665-617468657277,2.0.0*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.10-0)) date 2023-01-20 18:51:18*
+G04 Created by KiCad (PCBNEW (6.0.11-0)) date 2023-02-12 12:49:48*
 %MOMM*%
 %LPD*%
 G01*
@@ -126,7 +126,7 @@ X133847200Y-94843600D03*
 %TD*%
 D15*
 %TO.C,J108*%
-X142176500Y-109308343D03*
+X137325100Y-98348800D03*
 %TD*%
 D10*
 %TO.C,JP112*%
@@ -135,10 +135,10 @@ X154851100Y-97673400D03*
 %TD*%
 D15*
 %TO.C,J109*%
-X149745700Y-109308343D03*
+X143827500Y-98348800D03*
 %TD*%
 %TO.C,J107*%
-X145961100Y-109308343D03*
+X140576300Y-98348800D03*
 %TD*%
 D16*
 %TO.C,J102*%
